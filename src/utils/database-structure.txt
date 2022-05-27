@@ -1,0 +1,9 @@
+- chatting 
+    - chatID ---> (uid1_uid2)
+        - allChat
+            - dateChat --> (2022-05-25)
+                - chat1
+                    -sendBy
+                    -chatDate
+                    -chatTime
+                    -chatContent
